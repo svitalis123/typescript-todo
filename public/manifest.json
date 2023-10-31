@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://imgs.search.brave.com/qzU1_GU11h1FTsrZjOmI1cAifZXDeOsPg8c6n76u8ac/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE0/NTA2Mzk1Ny9waG90/by90by1kby1saXN0/LW9uLW5vdGVib29r/LW92ZXItcGFzdGVs/LWJsdWUtYmFja2dy/b3VuZC5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9d2FXMksy/QnZaNzVRdXhZeVRP/NG9qdmZTRElabzRi/QVc4bVI5Z013RTlD/MD0",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://imgs.search.brave.com/qzU1_GU11h1FTsrZjOmI1cAifZXDeOsPg8c6n76u8ac/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE0/NTA2Mzk1Ny9waG90/by90by1kby1saXN0/LW9uLW5vdGVib29r/LW92ZXItcGFzdGVs/LWJsdWUtYmFja2dy/b3VuZC5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9d2FXMksy/QnZaNzVRdXhZeVRP/NG9qdmZTRElabzRi/QVc4bVI5Z013RTlD/MD0",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://imgs.search.brave.com/qzU1_GU11h1FTsrZjOmI1cAifZXDeOsPg8c6n76u8ac/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE0/NTA2Mzk1Ny9waG90/by90by1kby1saXN0/LW9uLW5vdGVib29r/LW92ZXItcGFzdGVs/LWJsdWUtYmFja2dy/b3VuZC5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9d2FXMksy/QnZaNzVRdXhZeVRP/NG9qdmZTRElabzRi/QVc4bVI5Z013RTlD/MD0",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
